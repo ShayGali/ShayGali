@@ -1,4 +1,4 @@
-Hi there, I'm Sahy 👋     | ⚡ Fun fact
+Hi there, I'm Shay 👋     | ⚡ Fun fact
 :-------------------------:|:-------------------------:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30)](https://github.com/anuraghazra/convoychat) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&layout=compact&langs_count=30&exclude_repo=ML_learning&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
