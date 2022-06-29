@@ -35,7 +35,7 @@ Hi there, I'm Shay 👋     | ⚡ Fun fact
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ### How to reach me:
-[![Linkdin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shay-gali)](https://www.linkedin.com/in/shay-gali)
+[![Linkdin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shay-gali)
 
 ![profile-views](https://komarev.com/ghpvc/?username=ShayGali&style=flat-square)
 
