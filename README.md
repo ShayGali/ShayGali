@@ -2,6 +2,8 @@ Hi there, I'm Shay 👋     | ⚡ Fun fact
 :-------------------------:|:-------------------------:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&layout=compact&langs_count=30&exclude_repo=ML_learning&line_height=25)
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)Link to my LeetCode account](https://leetcode.com/ShayGali/)
+
 ### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
