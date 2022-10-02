@@ -1,6 +1,6 @@
 Hi there, I'm Shay 👋     | ⚡ Fun fact
 :-------------------------:|:-------------------------:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&hide=jupyter%20notebook&layout=compact&langs_count=5&line_height=25)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&hide=jupyter%20notebook&layout=compact&langs_count=5&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)Link to my LeetCode account](https://leetcode.com/ShayGali/)
 
