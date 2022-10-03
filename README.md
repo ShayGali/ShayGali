@@ -1,9 +1,11 @@
-Hi there, I'm Shay 👋     | ⚡ Fun fact
-:-------------------------:|:-------------------------:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&hide=jupyter%20notebook&layout=compact&langs_count=5&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+Hi there, I'm Shay 👋     | ⚡ Fun fact | 💻 Leetcode stats 
+:-------------------------:|:-------------------------:|:---:|
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayGali&show_icons=true&layout=compact&line_height=28&card_width=30&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayGali&hide=jupyter%20notebook&layout=compact&langs_count=5&line_height=25)](https://github.com/anuraghazra/github-readme-stats)| [![Leetcode Stats](https://leetcard.jacoblin.cool/shaygali)](https://leetcode.com/ShayGali/)
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)Link to my LeetCode account](https://leetcode.com/ShayGali/)
+### How to reach me:
+[![Linkdin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shay-gali)
 
+<!--
 ### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,12 +40,10 @@ Hi there, I'm Shay 👋     | ⚡ Fun fact
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-### How to reach me:
-[![Linkdin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shay-gali)
 
 ![profile-views](https://komarev.com/ghpvc/?username=ShayGali&style=flat-square)
 
-<!--
+
 **ShayGali/ShayGali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
