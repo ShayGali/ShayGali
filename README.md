@@ -9,7 +9,7 @@
 ### How to reach me
 
 [![Linkedin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shay-gali)
-
+<!-- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,nodejs,py,go,cs,html,css" />
@@ -19,3 +19,4 @@
     <img src="https://skillicons.dev/icons?i=,git,github,md,idea,vscode,postman,linux," />
   </a>
 </p>
+-->
