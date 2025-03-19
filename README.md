@@ -21,4 +21,4 @@
 </p>
 -->
 
- ![](https://komarev.com/ghpvc/?username=shaygali)
+ ![](https://komarev.com/ghpvc/?username=shaygali&style=pixel&abbreviated=true)
